@@ -4,7 +4,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/alijumaan/laravel-ecommerce.git
+   git clone https://github.com/seniorweb0417/laravel-ecommerce.git
    ```
 2. Install Composer packages
    ```sh
